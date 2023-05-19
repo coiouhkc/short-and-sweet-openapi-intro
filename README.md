@@ -48,7 +48,11 @@ _paginate: false
 
 ## Current project
 
-Contract-first openapi.yaml + maven plugin
+NDA: contract-first `openapi.yaml` + `openapi-generator-maven-plugin`
+
+<!--
+Code will be shown, but not shared.
+-->
 
 ---
 
